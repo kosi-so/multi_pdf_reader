@@ -4,8 +4,11 @@ This application allows users to upload one or multiple PDF documents, process t
 Key functionalities include:
 
 Extracting text from one or multiple PDF files.
+
 Splitting the extracted text into manageable chunks for better processing.
+
 Embedding the text using Google Generative AI Embeddings.
+
 Creating a conversational chain that allows users to ask questions about the uploaded documents.
 
 ## Features
