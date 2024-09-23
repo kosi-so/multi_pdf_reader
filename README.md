@@ -2,9 +2,9 @@
 This application allows users to upload one or multiple PDF documents, process their content, and then ask questions about the documents. The app uses Google Generative AI and LangChain to answer user questions based on the content of the uploaded PDFs.
 
 Key functionalities include:
--Extracting text from one or multiple PDF files.
--Splitting the extracted text into manageable chunks for better processing.
--Embedding the text using Google Generative AI Embeddings.
+-Extracting text from one or multiple PDF files. /n
+-Splitting the extracted text into manageable chunks for better processing. /n
+-Embedding the text using Google Generative AI Embeddings. /n
 -Creating a conversational chain that allows users to ask questions about the uploaded documents.
 
 ## Features
